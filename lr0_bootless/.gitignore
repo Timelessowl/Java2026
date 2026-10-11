@@ -1,0 +1,6 @@
+.tools/
+.runtime/
+target/
+reports/qa/
+__pycache__/
+.DS_Store
